@@ -160,3 +160,11 @@ body img{
     background: transparent;
 }
 
+.secright button{
+    max-width: 15%;
+    border-radius: 12%;
+    padding: 2%;
+    margin: 3px 0px;
+    border: none;
+    cursor: pointer;
+}
